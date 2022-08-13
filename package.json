@@ -1,0 +1,23 @@
+{
+  "name": "week11",
+  "version": "1.0.0",
+  "main": "tic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuritzyMarquez/Week11Coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuritzyMarquez/Week11Coding/issues"
+  },
+  "homepage": "https://github.com/YuritzyMarquez/Week11Coding#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0"
+  }
+}
